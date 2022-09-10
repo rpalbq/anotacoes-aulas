@@ -1,5 +1,7 @@
 # Cap 1 - Introdução -  Eng de Software
 
+Anotações baseadas no livro **"Engenharia de Software Moderna - Marco Tulio Valente"** [Você pode saber mais sobre o livro clicando aqui!](https://engsoftmoderna.info/)
+
 ---
 
 O que contém nesse capítulo?
@@ -55,7 +57,7 @@ Conjunto de atividades realizadas com o objetivo de analisar, definir, documenta
 
 Os requisitos de um sistema definem o que ele deve fazer e como ele deve operar. Existem dois tipos de requisitos
 
-- Funcionais: Define o que um sistema deve fazerv
+- Funcionais: Define o que um sistema deve fazer
 - Não funcionais: Define como o sistema fará, não está relacionado diretamente as funcionalidades de um sistema. Quais restrições, qualidade do serviço, desempenho, disponibilidade, tolerância a falhas, segurança, privacidade, capacidade, usabilidade etc.
 
 **Projeto de software**
